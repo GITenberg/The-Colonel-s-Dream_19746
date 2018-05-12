@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/252
     wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19746#The-Colonel-s-Dream
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2006-11-09'
 gutenberg_type: Text
